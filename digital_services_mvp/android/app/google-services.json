@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914098065436",
+    "project_id": "digital-services-mvp",
+    "storage_bucket": "digital-services-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914098065436:android:b11d3ee68e1988eaf3cfd9",
+        "android_client_info": {
+          "package_name": "com.example.digital_services_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJvip7vTcRskehN443XgrhfkpQ8f1OTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
